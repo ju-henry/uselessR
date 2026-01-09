@@ -1,0 +1,10 @@
+Package: uselessR
+Title: useless things
+Version: 0.0.0.9000
+Authors@R: 
+    person("Julien", "Henry", , "first.last@example.com", role = c("aut", "cre"))
+Description: useless things, including a raging boolean class.
+License: MIT
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.3
